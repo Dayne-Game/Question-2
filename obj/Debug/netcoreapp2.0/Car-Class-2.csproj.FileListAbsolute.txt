@@ -1,0 +1,10 @@
+/Users/daynegame/Documents/Car-Class-2/bin/Debug/netcoreapp2.0/Car-Class-2.deps.json
+/Users/daynegame/Documents/Car-Class-2/bin/Debug/netcoreapp2.0/Car-Class-2.runtimeconfig.json
+/Users/daynegame/Documents/Car-Class-2/bin/Debug/netcoreapp2.0/Car-Class-2.runtimeconfig.dev.json
+/Users/daynegame/Documents/Car-Class-2/bin/Debug/netcoreapp2.0/Car-Class-2.dll
+/Users/daynegame/Documents/Car-Class-2/bin/Debug/netcoreapp2.0/Car-Class-2.pdb
+/Users/daynegame/Documents/Car-Class-2/obj/Debug/netcoreapp2.0/Car-Class-2.csproj.CoreCompileInputs.cache
+/Users/daynegame/Documents/Car-Class-2/obj/Debug/netcoreapp2.0/Car-Class-2.AssemblyInfoInputs.cache
+/Users/daynegame/Documents/Car-Class-2/obj/Debug/netcoreapp2.0/Car-Class-2.AssemblyInfo.cs
+/Users/daynegame/Documents/Car-Class-2/obj/Debug/netcoreapp2.0/Car-Class-2.dll
+/Users/daynegame/Documents/Car-Class-2/obj/Debug/netcoreapp2.0/Car-Class-2.pdb
